@@ -1,5 +1,5 @@
 const connection = require('../database/connection');
-/**teste */
+
 module.exports = {
 
     async index(request, response) {
